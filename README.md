@@ -7,5 +7,3 @@
 ![Grey's github stats](https://github-readme-stats.vercel.app/api?username=greyhere&show_icons=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyhere&layout=compact&langs_count=10)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=greyhere&layout=compact)
