@@ -8,4 +8,4 @@
 
 ![Grey's github stats](https://github-readme-stats.vercel.app/api?username=greyhere&show_icons=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyhere&layout=compact&langs_count=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyhere&hide=HTML,CSS,Makefile,Dockerfile&layout=compact&langs_count=10)
