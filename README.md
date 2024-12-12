@@ -1,4 +1,4 @@
-### Hey there! I'm Grey. 👋
+### Hey there! 👋
 
 ![](https://komarev.com/ghpvc/?username=isxwor)
 
